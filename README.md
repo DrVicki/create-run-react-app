@@ -40,13 +40,12 @@ The above step automatically created the template required for react in the my-a
   
 ### Run your React App
 
-To run the code, first, write the below command in the terminal to enter the ```my-app``` folder.
-```
-cd my-app
-```
-
 Now, write the below command to finally run your code:
 
 ```
 npm start
 ```
+
+## Congratulations!! You created a React App.
+
+![](https://github.com/DrVicki/create-run-react-app/blob/main/cra.png)
